@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
 #include<math.h>
 int  main()
 {
